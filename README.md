@@ -1,0 +1,2 @@
+# Escollate-app
+# frontend
